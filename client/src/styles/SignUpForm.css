@@ -1,0 +1,41 @@
+.form-signup {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.email {
+    display: flex;
+    width: 326px;
+    height: 25px;
+}
+
+.password {
+    display: flex;
+    width: 326px;
+    height: 25px;
+}
+
+.confirmPassword {
+    display: flex;
+    width: 326px;
+    height: 25px;
+}
+
+.password-div {
+    margin-top: 15px;
+}
+
+.password:focus {
+    outline: none;
+}
+
+.email:focus {
+    outline: none;
+}
+
+.confirmPassword:focus {
+    outline: none;
+}

@@ -1,0 +1,16 @@
+h1 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 3em;
+    margin-top: 0;
+}
+
+span {
+    font-size: 1.2rem;
+}
+
+.signup-div, .dashboard, .matches-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
